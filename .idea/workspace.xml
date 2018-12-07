@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1880a41-222d-4361-8cad-bbb70ab2da3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/liz/Day2Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liz/Day2JOptionPane.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -82,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/liz/Day2Scanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="125">
               <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/liz/Day2JOptionPane.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -116,11 +125,12 @@
         <option value="$PROJECT_DIR$/src/com/liz/Day1Variables.java" />
         <option value="$PROJECT_DIR$/src/com/liz/Day2SwitchStatements.java" />
         <option value="$PROJECT_DIR$/src/com/liz/Day2Scanner.java" />
+        <option value="$PROJECT_DIR$/src/com/liz/Day2JOptionPane.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="545" />
+    <option name="x" value="450" />
     <option name="y" value="44" />
     <option name="width" value="1338" />
     <option name="height" value="697" />
@@ -159,7 +169,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544166477538" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544169601132" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -175,20 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day2Scanner">
-    <configuration name="Day1HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liz.Day1HelloWorld" />
-      <module name="JavaLessonsCont" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day2JOptionPane">
     <configuration name="Day1IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liz.Day1IfStatements" />
       <module name="JavaLessonsCont" />
@@ -204,6 +201,19 @@
     </configuration>
     <configuration name="Day1Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liz.Day1Variables" />
+      <module name="JavaLessonsCont" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day2JOptionPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liz.Day2JOptionPane" />
       <module name="JavaLessonsCont" />
       <extension name="coverage">
         <pattern>
@@ -243,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day2JOptionPane" />
         <item itemvalue="Application.Day2Scanner" />
         <item itemvalue="Application.Day2SwitchStatements" />
         <item itemvalue="Application.Day1Variables" />
         <item itemvalue="Application.Day1IfStatements" />
-        <item itemvalue="Application.Day1HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -262,15 +272,16 @@
       <option name="presentableId" value="Default" />
       <updated>1544112464252</updated>
       <workItem from="1544112480349" duration="3967000" />
-      <workItem from="1544158208595" duration="6821000" />
+      <workItem from="1544158208595" duration="7804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10788000" />
+    <option name="totallyTimeSpent" value="11771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="44" width="1338" height="697" extended-state="0" />
+    <frame x="450" y="44" width="1338" height="697" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25503877" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -359,8 +370,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liz/Day2Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="125">
           <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/liz/Day2JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
